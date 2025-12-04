@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+*.env
+
+# IDE files (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Large data files you don't want in repo
+*.csv
+*.xlsx
+*.parquet
+*.zip

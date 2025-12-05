@@ -61,7 +61,9 @@ titanic-eda/
 │ ├── deaths_by_relatives_count.png
 │ ├── deaths_by_deck.png
 │ ├── titanic_sunburst.png
-│ └── survival_heatmap.png
+│ ├── survival_heatmap.png
+│ ├── dashboard_preview.png
+│ └──
 ```
 ---
 

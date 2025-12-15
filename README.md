@@ -8,7 +8,7 @@ The goal is to identify key factors that influenced passenger survival and visua
 ## 🖥️ Dashboard Preview
 
 <p align="center">
-  <img src="visualization/dashboard_preview.png" alt="Dashboard Preview" width="850">
+  <img src="titanic-eda/visualization/dashboard_preview.png" alt="Dashboard Preview" width="850">
 </p>
 
 ---
@@ -61,7 +61,9 @@ titanic-eda/
 │ ├── deaths_by_relatives_count.png
 │ ├── deaths_by_deck.png
 │ ├── titanic_sunburst.png
-│ └── survival_heatmap.png
+│ ├── survival_heatmap.png
+│ ├── dashboard_preview.png
+│ └──
 ```
 ---
 
